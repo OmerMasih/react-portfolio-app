@@ -1,0 +1,63 @@
+:root {
+  --tranYellow: #ffdd0063;
+  --slate: #beceff;
+}
+
+.experience {
+  color: var(--fontColor);
+  overflow-x: hidden;
+}
+
+@media only screen and (max-width: 980px) {
+  .container {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .container {
+    min-height: 500px;
+  }
+  .title h1 {
+    margin-left: 20px;
+  }
+}
+
+.title h1 {
+  font-size: 40px;
+  display: inline-block;
+  color: var(--yellow);
+  margin-bottom: 50px;
+}
+.title::after {
+  content: "";
+  width: calc(100% - 500px);
+  max-width: 350px;
+  height: 1px;
+  background-color: var(--yellow);
+  display: inline-block;
+
+  margin-bottom: 8px;
+  margin-left: 20px;
+}
+
+.container {
+  position: absolute;
+  justify-content: center;
+  top: 55%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+  animation: aboutload 0.5s;
+  animation-fill-mode: forwards !important;
+}
+
+.skills {
+  color: var(--yellow);
+  font-weight: bold;
+  border-radius: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  margin-left: 40px;
+}
