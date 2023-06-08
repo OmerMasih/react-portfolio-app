@@ -8,7 +8,7 @@ import movie from "../../Resources/images/movie.png";
 import textEditor from "../../Resources/images/textEditor.png";
 import techBlog from "../../Resources/images/techBlog.png";
 import dictionary from "../../Resources/images/dictionary.png";
-import Quiz from "../../Resources/images/Quiz.png";
+import MedicationTracker from "../../Resources/images/MedicationTracker.png";
 const Work = () => {
   return (
     <Container fluid className="project-section">
@@ -58,18 +58,18 @@ const Work = () => {
               <ProjectCard
                 imgPath={movie}
                 title="Movie-Search"
-                description="A dynamically generated movie search."
+                description="A dynamically generated movie search Application, and a movie game for entertaining."
                 linkApp="https://box-office-crash.herokuapp.com/"
                 linkGithub="https://github.com/OmerMasih/movie-search"
               />
             </Col>
             <Col md={4} className="project-card">
               <ProjectCard
-                imgPath={Quiz}
-                title="Coding Quiz Application"
-                description=" A JavaScript Code Quiz challenge has 8 questions and it saves data in local storage ."
-                linkApp="https://omermasih.github.io/QuizApp.js/"
-                linkGithub="https://github.com/OmerMasih/QuizApp.js"
+                imgPath={MedicationTracker}
+                title="Medication Tracker"
+                description="The Medication Tracker is a simple application designed to help you manage your medication."
+                linkApp="https://evening-atoll-46971.herokuapp.com/"
+                linkGithub="https://github.com/Emilymora1207/MedicationTracker"
               />
             </Col>
           </Row>

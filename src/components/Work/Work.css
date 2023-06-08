@@ -35,7 +35,7 @@
   position: absolute;
   margin-top: 5%;
   margin-left: 2%;
-
+  color: #fff;
   width: 100%;
   max-width: 1332px;
   box-shadow: 30px -16px rgb(0, 128, 77);
@@ -53,7 +53,6 @@
   height: 1px;
   background-color: var(--yellow);
   display: inline-block;
-
   margin-bottom: 8px;
   margin-left: 20px;
 }
