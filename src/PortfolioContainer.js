@@ -1,5 +1,3 @@
-//This is the portfolio container
-//Render the page and Navbar
 import React, { PureComponent } from "react";
 import classNames from "classnames/bind";
 import styles from "./App.css";

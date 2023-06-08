@@ -1,53 +1,57 @@
-.contactForm {
-  animation: aboutload 0.4s;
-  animation-fill-mode: forwards !important;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  text-align: center;
-  transform: translate(-50%, -50%);
-  opacity: 0;
+.contactForm{
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    text-align: center;
+
+    opacity:0;
+    animation: aboutload .4s;
+    animation-fill-mode:forwards !important;
+} 
+.input{
+    background-color:var(--fontColor);
+    cursor:default;
+    color:black;
+    margin:10px;
+    padding:10px;
+    width:70vw;
+    max-width:700px;
+    cursor:text;
+
+    border-radius:5px;
 }
-.input {
-  background-color: var(--fontColor);
-  border-radius: 5px;
-  cursor: default;
-  color: black;
-  cursor: text;
-  margin: 10px;
-  max-width: 700px;
-  padding: 10px;
-  width: 70vw;
+.contactForm h3{
+    color:var(--yellow);
+    font-size:40px;
 }
-.contactForm h3 {
-  color: var(--yellow);
-  font-size: 40px;
+.contactForm p{
+    color:var(--fontColor);
 }
-.contactForm p {
-  color: var(--fontColor);
+.Submit{
+    color:var(--yellow)!important;
+    padding:10px;
+    width:calc(70vw + 20px);
+    max-width:720px;
+    border:2px solid var(--yellow);
+    border-radius:5px;
+    
+    transition:background-color .3s;
 }
-.Submit {
-  border: 2px solid var(--yellow);
-  border-radius: 5px;
-  color: var(--yellow) !important;
-  max-width: 720px;
-  padding: 10px;
-  transition: background-color 0.3s;
-  width: calc(70vw + 20px);
-}
-.Submit:hover {
-  background-color: var(--tranYellow);
-  cursor: pointer;
-}
-.contactForm textarea {
-  border-radius: 5px;
-  background-color: var(--fontColor);
-  cursor: text;
-  cursor: default;
-  color: black;
-  height: 40vh;
-  margin: 10px;
-  padding: 10px;
-  max-width: 700px;
-  width: 70vw;
+    .Submit:hover{
+        background-color:var(--tranYellow);
+        cursor:pointer;
+    }
+.contactForm textarea{
+    border-radius:5px;
+    background-color:var(--fontColor);
+    cursor:default;
+    color:black;
+    margin:10px;
+    padding:10px;
+    width:70vw;
+    max-width:700px;
+
+    height: 40vh;
+    cursor:text;
 }
