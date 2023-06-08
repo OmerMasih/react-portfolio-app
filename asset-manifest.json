@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-app/static/css/main.d579dcff.css",
+    "main.js": "/react-portfolio-app/static/js/main.18d2103b.js",
+    "static/media/movie.png": "/react-portfolio-app/static/media/movie.c929b243494fa41e4e56.png",
+    "static/media/weather.png": "/react-portfolio-app/static/media/weather.dc1c470b1172262d0a19.png",
+    "static/media/MedicationTracker.png": "/react-portfolio-app/static/media/MedicationTracker.1ba33f9bcb0a24827183.png",
+    "static/media/dictionary.png": "/react-portfolio-app/static/media/dictionary.64c95a33fbda360813f4.png",
+    "static/media/textEditor.png": "/react-portfolio-app/static/media/textEditor.964767dd6778ff2ff014.png",
+    "static/media/resume.pdf": "/react-portfolio-app/static/media/resume.89d40f021ed9b8c7e763.pdf",
+    "static/media/techBlog.png": "/react-portfolio-app/static/media/techBlog.2e17dae3fab1042edb55.png",
+    "static/media/profile-pic.jpeg": "/react-portfolio-app/static/media/profile-pic.d5bb0414431181c2430a.jpeg",
+    "static/media/2_lines.woff": "/react-portfolio-app/static/media/2_lines.8411e7711288415028ac.woff",
+    "static/media/instagram.svg": "/react-portfolio-app/static/media/instagram.f0cfa30d48f79bb3d8c99ebf43dea781.svg",
+    "static/media/facebook.svg": "/react-portfolio-app/static/media/facebook.1319aa6fd353f41321ea473a9fad57b0.svg",
+    "static/media/github.svg": "/react-portfolio-app/static/media/github.16a9304e38fd8167989291ab92544e14.svg",
+    "index.html": "/react-portfolio-app/index.html",
+    "static/media/linkedin.svg": "/react-portfolio-app/static/media/linkedin.03f1d164221e3a81954e6ec24a350288.svg",
+    "static/media/twitter.svg": "/react-portfolio-app/static/media/twitter.e7886f46d2d6e103c9e252143914bcc1.svg",
+    "main.d579dcff.css.map": "/react-portfolio-app/static/css/main.d579dcff.css.map",
+    "main.18d2103b.js.map": "/react-portfolio-app/static/js/main.18d2103b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d579dcff.css",
+    "static/js/main.18d2103b.js"
+  ]
+}
