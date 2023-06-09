@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-portfolio-app/static/css/main.d579dcff.css",
-    "main.js": "/react-portfolio-app/static/js/main.18d2103b.js",
+    "main.js": "/react-portfolio-app/static/js/main.e8395964.js",
     "static/media/movie.png": "/react-portfolio-app/static/media/movie.c929b243494fa41e4e56.png",
     "static/media/weather.png": "/react-portfolio-app/static/media/weather.dc1c470b1172262d0a19.png",
     "static/media/MedicationTracker.png": "/react-portfolio-app/static/media/MedicationTracker.1ba33f9bcb0a24827183.png",
+    "static/media/resume.pdf": "/react-portfolio-app/static/media/resume.cc3fe0b7b5e478cac1c8.pdf",
     "static/media/dictionary.png": "/react-portfolio-app/static/media/dictionary.64c95a33fbda360813f4.png",
     "static/media/textEditor.png": "/react-portfolio-app/static/media/textEditor.964767dd6778ff2ff014.png",
-    "static/media/resume.pdf": "/react-portfolio-app/static/media/resume.89d40f021ed9b8c7e763.pdf",
     "static/media/techBlog.png": "/react-portfolio-app/static/media/techBlog.2e17dae3fab1042edb55.png",
     "static/media/profile-pic.jpeg": "/react-portfolio-app/static/media/profile-pic.d5bb0414431181c2430a.jpeg",
     "static/media/2_lines.woff": "/react-portfolio-app/static/media/2_lines.8411e7711288415028ac.woff",
@@ -18,10 +18,10 @@
     "static/media/linkedin.svg": "/react-portfolio-app/static/media/linkedin.03f1d164221e3a81954e6ec24a350288.svg",
     "static/media/twitter.svg": "/react-portfolio-app/static/media/twitter.e7886f46d2d6e103c9e252143914bcc1.svg",
     "main.d579dcff.css.map": "/react-portfolio-app/static/css/main.d579dcff.css.map",
-    "main.18d2103b.js.map": "/react-portfolio-app/static/js/main.18d2103b.js.map"
+    "main.e8395964.js.map": "/react-portfolio-app/static/js/main.e8395964.js.map"
   },
   "entrypoints": [
     "static/css/main.d579dcff.css",
-    "static/js/main.18d2103b.js"
+    "static/js/main.e8395964.js"
   ]
 }
